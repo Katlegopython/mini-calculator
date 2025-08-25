@@ -6,8 +6,7 @@ It supports basic operations like addition, subtraction, multiplication, and div
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/mini-calculator.git
-   cd mini-calculator
+   git clone https://github.com/Katlegopython/mini-calculator
 
 2. Run the program
    
